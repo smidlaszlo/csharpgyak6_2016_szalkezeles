@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_allapotok", "0_allapotok\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_ConcurrentStack2", "9_ConcurrentStack2\9_ConcurrentStack2.csproj", "{393EA777-9890-45D0-934F-4A1BB3AFB8BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_allapotok2", "ConsoleApplication1\0_allapotok2.csproj", "{45A13A4D-56EB-4536-8263-A2BF44C63B06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_allapotok2", "0_allapotok2\0_allapotok2.csproj", "{45A13A4D-56EB-4536-8263-A2BF44C63B06}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Lazy_tobb_szalnal", "A_Lazy_tobb_szalnal\A_Lazy_tobb_szalnal.csproj", "{47361200-DF28-483B-96A5-EE38EFE06CEE}"
 EndProject
