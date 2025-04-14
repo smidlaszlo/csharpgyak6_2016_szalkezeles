@@ -33,10 +33,13 @@ namespace D_Task_pelda2
 
         static void Main(string[] args)
         {
-            Indit();
+            Program.Indit();
+
+            Console.WriteLine("Fő szál befejezve.");
+            Console.ReadKey();
         }
 
-        static async Task Indit()
+        static async void Indit()
         {
             Console.WriteLine("Fő szál indítása.");
 
@@ -59,9 +62,6 @@ namespace D_Task_pelda2
             double aszinkronEredmeny = await aszinkronFeladat;
 
             Console.WriteLine($"Az AszinkronLekerdezes() visszatérési értéke: {aszinkronEredmeny}");
-
-            Console.WriteLine("Fő szál befejezve.");
-            Console.ReadKey();
         }
     }
 }
